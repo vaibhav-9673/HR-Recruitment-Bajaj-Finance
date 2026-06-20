@@ -40,7 +40,7 @@ Improved recruitment visibility, enabled better workforce planning, and helped s
 - Power BI
 
 
-## 3. DailyOpen Positions vs Joining Tracker
+## 3. Daily Open Positions vs Joined Tracker
 ### Project Overview
 
 Designed a daily MIS reporting solution to track newly opened positions, offers released, and candidate joining status. The dashboard helps compare hiring demand against actual fulfillment.
@@ -59,7 +59,7 @@ Provided management with clear visibility into hiring progress, helping teams id
 - Excel
 - Power BI
 
-## Offer Decline Reduction Analytics
+## 4. Offer Decline Reduction Analytics
 ### Project Overview
 
 Contributed to a business-critical project aimed at reducing candidate offer decline rates. Generated upcoming joiner lists, analyzed candidate responses collected by the calling team, and identified candidates at risk of not joining.
@@ -77,3 +77,7 @@ Helped recruiters proactively engage at-risk candidates, improve candidate exper
 ### Tools Used
 - Excel
 - Power BI
+
+
+# Author 
+### Vaibhav Gade
